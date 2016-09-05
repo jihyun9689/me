@@ -1,0 +1,3 @@
+[submodule "git_project"]
+	path = git_project
+	url = https://github.com/jihyun9689/me
